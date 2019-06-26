@@ -1,0 +1,3 @@
+[submodule "kong-oidc-auth"]
+	path = kong-oidc-auth
+	url = https://github.com/waret/kong-oidc-auth.git
